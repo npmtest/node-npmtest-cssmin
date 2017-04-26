@@ -1,6 +1,6 @@
 # npmtest-cssmin
 
-#### test coverage for  [cssmin (v0.4.3)](https://github.com/jbleuzen/node-cssmin)  [![npm package](https://img.shields.io/npm/v/npmtest-cssmin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cssmin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cssmin.svg)](https://travis-ci.org/npmtest/node-npmtest-cssmin)
+#### basic test coverage for  [cssmin (v0.4.3)](https://github.com/jbleuzen/node-cssmin)  [![npm package](https://img.shields.io/npm/v/npmtest-cssmin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cssmin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cssmin.svg)](https://travis-ci.org/npmtest/node-npmtest-cssmin)
 
 #### A simple CSS minifier that uses a port of YUICompressor in JS
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-cssmin/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-cssmin/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-cssmin/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-cssmin/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-cssmin/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-cssmin/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-cssmin/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-cssmin/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-cssmin/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-cssmin/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-cssmin/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-cssmin/build/coverage.html/index.html)
 
